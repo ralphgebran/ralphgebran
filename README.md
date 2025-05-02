@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Ralph GEBRAN, second year bachelor student in **Chemistry and Chemical Engineering** at **EPFL** 🦆.
+I am Ralph GEBRAN, bachelor student in **Chemistry and Chemical Engineering** at **EPFL** 🦆.
 
 <!--
 **ralphgebran/ralphgebran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
